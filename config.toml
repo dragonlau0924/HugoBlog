@@ -1,4 +1,4 @@
-baseURL = "fanciful-dolphin-9b4977.netlify.app"
+baseURL = ""
 languageCode = "zh" # html的lang属性值
 DefaultContentLanguage = "zh" # 默认内容语言用于选择i18n语言模板
 title = "Cyan's Blog 🎏"
@@ -80,6 +80,7 @@ home = ["HTML", "REDIR", "JSON", "RSS"]
     logoText = "Cyan 🎏"
     logoHomeLink = "/"
 
+  [menu]
     [[menu.main]]
       identifier = "blog"
       name       = "Blog"
@@ -92,14 +93,8 @@ home = ["HTML", "REDIR", "JSON", "RSS"]
       identifier = "series"
       name       = "Series"
       url        = "/series"
-  [menu]
     [[menu.main]]
       identifier = "about"
       name       = "About"
       url        = "/about"
-
-
-
-
-
 
