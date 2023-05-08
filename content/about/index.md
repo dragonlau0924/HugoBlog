@@ -5,12 +5,12 @@ draft: false
 type: "about"
 ---
 
-**E-mail**: [rectcircle96@gmail.com](mailto:rectcircle96@gmail.com)
+**B站**： https://space.bilibili.com/431066340
 
-**Github**: https://github.com/rectcircle
+**Github**: https://github.com/dragonlau0924
 
 ---
 
-友情链接：
+友链：
 
-* [卡拉搜索](https://kalasearch.cn/)
+- 暂无
