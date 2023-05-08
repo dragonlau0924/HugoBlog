@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "fanciful-dolphin-9b4977.netlify.app"
 languageCode = "zh" # html的lang属性值
 DefaultContentLanguage = "zh" # 默认内容语言用于选择i18n语言模板
 title = "Cyan's Blog 🎏"
@@ -6,14 +6,14 @@ theme = "hello-friend-ng"
 subtitle = "Record And Share"
 keywords = "js,javascript,nodejs,css,,html,git,前端,后端,原创"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-readOtherPosts = "Read other posts"
+readOtherPosts = "阅读更多"
 pygmentsCodeFencesGuessSyntax = true 
 disableAliases = true # 使用 Netlify 301 重定向
 pygmentsCodeFences = true
 googleAnalytics = 'UA-139468050-1'
 disqusShortname = "cyan-blog"
 canonifyURLs = true # 启用将相对URL转换为绝对URL
-enableGitInfo = true # 使能git信息
+enableGitInfo = false # 使能git信息
 summaryLength = 70
 hasCJKLanguage = true
 
@@ -80,11 +80,6 @@ home = ["HTML", "REDIR", "JSON", "RSS"]
     logoText = "Cyan 🎏"
     logoHomeLink = "/"
 
-  [menu]
-    [[menu.main]]
-      identifier = "about"
-      name       = "About"
-      url        = "/about"
     [[menu.main]]
       identifier = "blog"
       name       = "Blog"
@@ -97,7 +92,11 @@ home = ["HTML", "REDIR", "JSON", "RSS"]
       identifier = "series"
       name       = "Series"
       url        = "/series"
-
+  [menu]
+    [[menu.main]]
+      identifier = "about"
+      name       = "About"
+      url        = "/about"
 
 
 
