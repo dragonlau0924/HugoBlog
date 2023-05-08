@@ -1,17 +1,17 @@
 baseURL = ""
 languageCode = "zh" # html的lang属性值
 DefaultContentLanguage = "zh" # 默认内容语言用于选择i18n语言模板
-title = "Rectcircle Blog"
+title = "Cyan Blog 🎏"
 theme = "hello-friend-ng"
-subtitle = "Reactcircle Record And Share"
-keywords = "js,javascript,nodejs,jquery,css,sass,gulp,html,git,java,hibernate,spring,maven,mysql,sql,linux,acm,架构,前端,后端,原创,编程,开发,算法,运维,云计算,网络,互联网"
+subtitle = "Record And Share"
+keywords = "js,javascript,nodejs,css,,html,git,前端,后端,原创"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 readOtherPosts = "Read other posts"
 pygmentsCodeFencesGuessSyntax = true 
 disableAliases = true # 使用 Netlify 301 重定向
 pygmentsCodeFences = true
 googleAnalytics = 'UA-139468050-1'
-disqusShortname = "rectcircle-blog"
+disqusShortname = "cyan-blog"
 canonifyURLs = true # 启用将相对URL转换为绝对URL
 enableGitInfo = true # 使能git信息
 summaryLength = 70
@@ -77,7 +77,7 @@ home = ["HTML", "REDIR", "JSON", "RSS"]
     url  = "mailto:2434419029@qq.com"
 
   [params.logo]
-    logoText = "Cyan🎏"
+    logoText = "Cyan 🎏"
     logoHomeLink = "/"
 
   [menu]

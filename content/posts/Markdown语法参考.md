@@ -1,9 +1,7 @@
 ---
 title: Markdown语法参考
-date: 2016-11-06T21:37:12+08:00
-draft: false
+date: 2023-05-08T21:37:12+08:00
 toc: true
-comments: true
 aliases:
   - /detail/2
   - /detail/2/
