@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "zh" # html的lang属性值
 DefaultContentLanguage = "zh" # 默认内容语言用于选择i18n语言模板
-title = "Cyan Blog 🎏"
+title = "Cyan's Blog 🎏"
 theme = "hello-friend-ng"
 subtitle = "Record And Share"
 keywords = "js,javascript,nodejs,css,,html,git,前端,后端,原创"
